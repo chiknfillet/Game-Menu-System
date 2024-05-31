@@ -1,0 +1,25 @@
+24
+maynard	123	0	0	1
+maximus	123	0	0	0
+jopet	123	0	0	0
+jc	123	0	0	1
+marlex	123	0	0	0
+noe	123	0	1	0
+jose	123	0	1	0
+wally	123	0	0	1
+paulo	123	0	0	0
+chan	123	0	0	0
+totoy	123	0	0	0
+juan	123	0	0	0
+jei	123	1	0	0
+nono	123	0	0	0
+koko	123	0	0	0
+jay	123	0	0	0
+popo	123	0	0	0
+peter	123	0	0	0
+test	1234	0	0	0
+jojo	123	0	0	0
+nene	123	0	0	0
+john	123	0	0	0
+jotaro	123	0	0	0
+jhony	123	0	0	0
